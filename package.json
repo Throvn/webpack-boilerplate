@@ -9,6 +9,9 @@
   },
   "author": "Throvn",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/Throvn/webpack-boilerplate"
+  },
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-loader": "^7.1.4",
